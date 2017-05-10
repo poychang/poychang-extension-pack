@@ -4,6 +4,7 @@
     "description": "Poy Chang's Visual Studio Code extension pack",
     "version": "0.0.1",
     "publisher": "PoyChang",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.12.0"
     },
