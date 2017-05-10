@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "publisher": "PoyChang",
     "icon": "icon.png",
+    "repository": "https://github.com/poychang/poychang-extension-pack",
     "engines": {
         "vscode": "^1.12.0"
     },
