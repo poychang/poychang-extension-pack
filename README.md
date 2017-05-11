@@ -2,7 +2,9 @@
 
 This extension pack packages some of my regular and favorite extensions.
 
-## Extension List
+## Dependency Extension
+
+以下為必裝的擴充套件
 
 ### Angular
 
@@ -32,6 +34,7 @@ This extension pack packages some of my regular and favorite extensions.
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
     * 格式化 javascript, JSON, CSS, Sass, 和 HTML 程式碼
 * [Bootstrap 4 & Font awesome snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+    * 提供 Bootstrap 4 和 Font Awesome 程式碼片段
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
     * 幫你把 HTML Color Codes 標示顏色
 * [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
@@ -49,23 +52,14 @@ This extension pack packages some of my regular and favorite extensions.
 
 ### Others
 
-* [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
-    * 開啟 Markdown 檔案時，自動開啟預覽模式
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
     * 支援開發 C# 專案
 * [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     * 檢查程式碼中的英文是否有拼寫正確
-* [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
-    * 這個工具能夠自動化格式
-* [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
-    * 提供 Dockerfile 程式碼片段及命令列等工具
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
     * 統一程式碼撰寫的排版格式，適合運用在多人開發上，有些人習慣 tab 縮排，有些則習慣 space 縮排，或是斷行類型( CRLF or LF )的設定等等，改善程式碼排版的一致性並有效提升程式碼可讀性。
-* [ionic 2 Commands with Snippets](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
 * [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
     * 讓 Output console 有顏色分別顯示
-* [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-    * 幫你把設定與擴充套件同步
 * [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter)
     * Optimize / Auto Imports, Generate Getters / Setters and Constructors
 * [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
@@ -80,7 +74,24 @@ This extension pack packages some of my regular and favorite extensions.
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
     * Icons for Visual Studio Code
 
-### For more information
+## Recommended Extension
+
+以下為建議安裝的擴充套件
+
+### Others
+
+* [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+    * 開啟 Markdown 檔案時，自動開啟預覽模式
+* [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
+    * 這個工具能夠自動化格式
+* [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+    * 提供 Dockerfile 程式碼片段及命令列等工具
+* [ionic 2 Commands with Snippets](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
+    * 提供 Ionic 2 程式碼片段及命令列等工具
+* [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+    * 幫你把設定與擴充套件同步
+
+## For more information
 
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
 * [開發 Angular 必備 VSCode 擴充套件](https://paper.dropbox.com/doc/-Angular-VSCode-Kh2w3saOyZtJSHawFoBem)
