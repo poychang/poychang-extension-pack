@@ -2,7 +2,7 @@
     "name": "poychang-extension-pack",
     "displayName": "PoyChang Extension Pack",
     "description": "Poy Chang's Visual Studio Code extension pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "PoyChang",
     "icon": "icon.png",
     "repository": "https://github.com/poychang/poychang-extension-pack",
@@ -43,6 +43,7 @@
         "thekalinga.bootstrap4-vscode",
         "WallabyJs.quokka-vscode",
         "xabikos.JavaScriptSnippets",
+        "xaver.clang-format",
         "zhuangtongfa.Material-theme",
         "Zignd.html-css-class-completion"
     ]

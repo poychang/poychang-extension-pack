@@ -35,6 +35,7 @@ This extension pack packages some of my regular and favorite extensions.
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 * [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+* [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [ionic 2 Commands with Snippets](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
