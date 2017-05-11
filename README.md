@@ -4,7 +4,7 @@ This extension pack packages some of my regular and favorite extensions.
 
 ## Dependency Extension
 
-以下為必裝的擴充套件
+以下為此擴充套件包相依的擴充套件
 
 ### Angular
 
@@ -76,7 +76,7 @@ This extension pack packages some of my regular and favorite extensions.
 
 ## Recommended Extension
 
-以下為建議安裝的擴充套件
+以下為其他建議安裝的擴充套件
 
 ### Others
 
