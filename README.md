@@ -16,8 +16,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 可在 View 中直接切換到對應 Component 的 property
 * [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode)
     * Architectural analysis and visualization for Angular 2 projects
-* [Auto Import - ES6 & TS](https://marketplace.visualstudio.com/items?itemName=moppitz.vscode-extension-auto-import)
-    * 在開發 TypeScript 的時候由於會經常用到 ES2015 的 import 語法匯入另一個模組的型別，透過 Auto Import 可以將許多型別自動化載入，大幅縮短開發時間。
+* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+    * 在開發 TypeScript 的時候經常會用到 import 語法匯入另一個模組的型別，透過 Auto Import 可以將許多型別自動化載入，大幅縮短開發時間。
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
     * 只要是在程式碼中輸入「路徑」或「檔名」時，會自動提供輸入建議，並且有路徑檔名的自動完成功能，可以少打一些字。
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
