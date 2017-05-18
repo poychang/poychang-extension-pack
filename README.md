@@ -58,6 +58,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 檢查程式碼中的英文是否有拼寫正確
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
     * 統一程式碼撰寫的排版格式，適合運用在多人開發上，有些人習慣 tab 縮排，有些則習慣 space 縮排，或是斷行類型( CRLF or LF )的設定等等，改善程式碼排版的一致性並有效提升程式碼可讀性。
+* [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+    * 可以在編輯器中看到 git 相關資訊，拿來追 code 很方便
 * [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
     * 讓 Output console 有顏色分別顯示
 * [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter)
@@ -67,8 +69,6 @@ This extension pack packages some of my regular and favorite extensions.
 
 ### Theme
 
-* [Angular-io-Code](https://marketplace.visualstudio.com/items?itemName=NoHomey.angular-io-code)
-    * Provide color theme 100% alike to the one used in and from Angular.io
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
     * Atom's iconic One Dark theme, and one of the most downloaded themes for VS Code.
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
@@ -76,7 +76,11 @@ This extension pack packages some of my regular and favorite extensions.
 
 ## Recommended Extension
 
-以下為其他建議安裝的擴充套件
+以下為其他推薦安裝的擴充套件
+
+### Theme
+
+* [Angular-io-Code](https://marketplace.visualstudio.com/items?itemName=NoHomey.angular-io-code)
 
 ### Others
 
