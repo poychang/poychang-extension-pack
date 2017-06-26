@@ -54,6 +54,8 @@ This extension pack packages some of my regular and favorite extensions.
 
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
     * 支援開發 C# 專案
+* [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
+    * 這個工具能夠自動化格式
 * [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     * 檢查程式碼中的英文是否有拼寫正確
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
@@ -86,8 +88,6 @@ This extension pack packages some of my regular and favorite extensions.
 
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
     * 開啟 Markdown 檔案時，自動開啟預覽模式
-* [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
-    * 這個工具能夠自動化格式
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
     * 提供 Dockerfile 程式碼片段及命令列等工具
 * [ionic 2 Commands with Snippets](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
