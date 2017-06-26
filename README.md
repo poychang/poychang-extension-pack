@@ -66,6 +66,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 讓 Output console 有顏色分別顯示
 * [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter)
     * Optimize / Auto Imports, Generate Getters / Setters and Constructors
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+    * 在 VS Code 編輯區內顯示 TSLint 的檢查資訊，提升程式碼品質
 * [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
     * 使用 Reveal.js 建立簡報
 
