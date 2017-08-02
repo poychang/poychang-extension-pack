@@ -104,5 +104,6 @@ This extension pack packages some of my regular and favorite extensions.
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
 * [開發 Angular 必備 VSCode 擴充套件](https://paper.dropbox.com/doc/-Angular-VSCode-Kh2w3saOyZtJSHawFoBem)
 * [製作 Visual Studio Code 擴充套件包](https://poychang.github.io/build-vscode-extension/)
+* [發行擴充套件至 Extension Marketplace](https://poychang.github.io/publish-extension-to-visual-studio-marketplace/)
 
 **Enjoy!**
