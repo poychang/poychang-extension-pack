@@ -2,7 +2,7 @@
     "name": "poychang-extension-pack",
     "displayName": "PoyChang Extension Pack",
     "description": "Poy Chang's Visual Studio Code extension pack",
-    "version": "0.0.7",
+    "version": "0.0.9",
     "publisher": "PoyChang",
     "icon": "icon.png",
     "repository": "https://github.com/poychang/poychang-extension-pack",
