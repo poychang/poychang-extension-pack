@@ -70,6 +70,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 在 VS Code 編輯區內顯示 TSLint 的檢查資訊，提升程式碼品質
 * [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
     * 使用 Reveal.js 建立簡報
+* [mssql](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+    * 可直接在 VS Code 中連線 Microsoft SQL Server, Azure SQL Database，並執行 SQL 查詢
 
 ### Theme
 
