@@ -59,7 +59,7 @@ This extension pack packages some of my regular and favorite extensions.
 * [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     * 檢查程式碼中的英文是否有拼寫正確
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-    * 統一程式碼撰寫的排版格式，適合運用在多人開發上，有些人習慣 tab 縮排，有些則習慣 space 縮排，或是斷行類型( CRLF or LF )的設定等等，改善程式碼排版的一致性並有效提升程式碼可讀性。
+    * 統一程式碼撰寫的排版格式，適合運用在多人開發上，有些人習慣 tab 縮排，有些則習慣 space 縮排，或是斷行類型( CRLF or LF )的設定等等，改善程式碼排版的一致性並有效提升程式碼可讀性
 * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     * 可以在編輯器中看到 git 相關資訊，拿來追 code 很方便
 * [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
@@ -76,7 +76,7 @@ This extension pack packages some of my regular and favorite extensions.
 ### Theme
 
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-    * Atom's iconic One Dark theme, and one of the most downloaded themes for VS Code.
+    * Atom's iconic One Dark theme, and one of the most downloaded themes for VS Code
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
     * Icons for Visual Studio Code
 
@@ -98,6 +98,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 提供 Ionic 2 程式碼片段及命令列等工具
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
     * 幫你把設定與擴充套件同步
+* [Wallaby.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode)
+    * 單元測試的神器，能在編輯器中顯示單元測試的結果與狀態
 
 ## For more information
 
