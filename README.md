@@ -98,6 +98,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 提供 Ionic 2 程式碼片段及命令列等工具
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
     * 幫你把設定與擴充套件同步
+* [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+    * 幫你檢查 package.json 中專案相依的版本資訊，可以一目了然的知道各套件是否有新版本釋出
 * [Wallaby.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode)
     * 單元測試的神器，能在編輯器中顯示單元測試的結果與狀態
 
