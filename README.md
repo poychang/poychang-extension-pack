@@ -11,19 +11,21 @@ This extension pack packages some of my regular and favorite extensions.
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
     * 使編輯器提供Angular Template IntelliSense
 * [Angular v4 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-    * 開發 Angular 4 的時候經常有許多語法糖，對初學者來說經常會打錯，有了這些 Code Snippets 就可以降低打錯字的機會。
+    * John Papa 編寫的 Angular 程式碼片段
+* [Angular 2+ Snippets - TypeScript, Html, ngRx, Angular Flex Layout, Material & Testing](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+    * 非常完整的程式碼片段
 * [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
-    * 可在 View 中直接切換到對應 Component 的 property
+    * 可使用快速鍵 `Alt` + `o` 在 HTML 中直接切換到對應 Component
 * [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode)
     * Architectural analysis and visualization for Angular 2 projects
-* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-    * 在開發 TypeScript 的時候經常會用到 import 語法匯入另一個模組的型別，透過 Auto Import 可以將許多型別自動化載入，大幅縮短開發時間。
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-    * 只要是在程式碼中輸入「路徑」或「檔名」時，會自動提供輸入建議，並且有路徑檔名的自動完成功能，可以少打一些字。
+    * 只要是在程式碼中輸入「路徑」或「檔名」時，會自動提供輸入建議，並且有路徑檔名的自動完成功能，可以少打一些字
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-    * 能夠幫助我們在編輯器中快速建立原型測試，包括了行內錯誤提示、代碼測試與覆蓋率提示、富文本輸出格式化等等。
+    * 能夠幫助我們在編輯器中快速建立原型測試，包括了行內錯誤提示、代碼測試與覆蓋率提示、富文本輸出格式化等等
 * [refactorix](https://marketplace.visualstudio.com/items?itemName=krizzdewizz.refactorix)
     * TypeScript refactoring tools for Visual Studio Code
+* [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
+    * 在開發 TypeScript 的時候經常會用到 import 語法匯入另一個模組的型別，透過此工具可以將許多型別自動化載入，大幅縮短開發時間
 * [VSCode simpler Icons with Angular](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons)
     * 專門給 Angular 用的 Icons
 
@@ -61,7 +63,7 @@ This extension pack packages some of my regular and favorite extensions.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
     * 統一程式碼撰寫的排版格式，適合運用在多人開發上，有些人習慣 tab 縮排，有些則習慣 space 縮排，或是斷行類型( CRLF or LF )的設定等等，改善程式碼排版的一致性並有效提升程式碼可讀性
 * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-    * 可以在編輯器中看到 git 相關資訊，拿來追 code 很方便
+    * 可以在編輯器中看到 Git 相關資訊，拿來追 code 很方便
 * [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
     * 讓 Output console 有顏色分別顯示
 * [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter)
@@ -101,7 +103,7 @@ This extension pack packages some of my regular and favorite extensions.
 * [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
     * 幫你檢查 package.json 中專案相依的版本資訊，可以一目了然的知道各套件是否有新版本釋出
 * [Wallaby.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode)
-    * 單元測試的神器，能在編輯器中顯示單元測試的結果與狀態
+    * （需付費）單元測試的神器，能在編輯器中顯示單元測試的結果與狀態
 
 ## For more information
 
