@@ -26,6 +26,8 @@ This extension pack packages some of my regular and favorite extensions.
     * TypeScript refactoring tools for Visual Studio Code
 * [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
     * 在開發 TypeScript 的時候經常會用到 import 語法匯入另一個模組的型別，透過此工具可以將許多型別自動化載入，大幅縮短開發時間
+* [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
+    * 重構專案時，使用使擴充套件搬動 TypeScript 檔案，會自動幫你把有載入該檔案的程式碼做路徑變更
 * [VSCode simpler Icons with Angular](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons)
     * 專門給 Angular 用的 Icons
 
