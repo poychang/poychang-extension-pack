@@ -79,6 +79,8 @@ This extension pack packages some of my regular and favorite extensions.
 
 ### Theme
 
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+    * A customizable extension for colorizing matching brackets
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
     * Atom's iconic One Dark theme, and one of the most downloaded themes for VS Code
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)

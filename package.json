@@ -17,6 +17,7 @@
         "Angular.ng-template",
         "AngularDoc.angulardoc-vscode",
         "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
         "davidbabel.vscode-simpler-icons",
         "DSKWRK.vscode-generate-getter-setter",
         "EditorConfig.EditorConfig",
