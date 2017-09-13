@@ -15,11 +15,12 @@ This extension pack packages some of my regular and favorite extensions.
 * [Angular 2+ Snippets - TypeScript, Html, ngRx, Angular Flex Layout, Material & Testing](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
     * 非常完整的程式碼片段
 * [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
-    * 可使用快速鍵 `Alt` + `o` 在 HTML 中直接切換到對應 Component
+    * 在 Angular 專案中，快速在 HTML 或 Component 中做切換
+    * 快速鍵 `Alt` + `O`
 * [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode)
-    * Architectural analysis and visualization for Angular 2 projects
+    * Architectural analysis and visualization for Angular projects
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-    * 只要是在程式碼中輸入「路徑」或「檔名」時，會自動提供輸入建議，並且有路徑檔名的自動完成功能，可以少打一些字
+    * 只要是在程式碼中輸入「路徑」或「檔名」時提供建議路徑，並且有路徑檔名的自動完成功能
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
     * 能夠幫助我們在編輯器中快速建立原型測試，包括了行內錯誤提示、代碼測試與覆蓋率提示、富文本輸出格式化等等
 * [refactorix](https://marketplace.visualstudio.com/items?itemName=krizzdewizz.refactorix)
@@ -28,8 +29,6 @@ This extension pack packages some of my regular and favorite extensions.
     * 在開發 TypeScript 的時候經常會用到 import 語法匯入另一個模組的型別，透過此工具可以將許多型別自動化載入，大幅縮短開發時間
 * [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
     * 重構專案時，使用使擴充套件搬動 TypeScript 檔案，會自動幫你把有載入該檔案的程式碼做路徑變更
-* [VSCode simpler Icons with Angular](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons)
-    * 專門給 Angular 用的 Icons
 
 ### Front-End
 
@@ -51,13 +50,22 @@ This extension pack packages some of my regular and favorite extensions.
     * 有些 ES5/ES6 常用的 Code Snippets 還蠻實用的
 * [Latest TypeScript and Javascript Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.typescript-javascript-grammar)
     * This is development branch of VSCode JS/TS colorization. Please file any issues you find against 
+* [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter)
+    * Optimize / Auto Imports, Generate Getters / Setters and Constructors
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+    * 在 VS Code 編輯區內顯示 TSLint 的檢查資訊，提升程式碼品質
 * [VS Color Picker](https://marketplace.visualstudio.com/items?itemName=lihui.vs-color-picker)
     * 幫助選擇顏色的工具
 
-### Others
+### Back-End
 
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
     * 支援開發 C# 專案
+* [mssql](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+    * 可直接在 VS Code 中連線 Microsoft SQL Server, Azure SQL Database，並執行 SQL 查詢
+
+### Others
+
 * [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
     * 這個工具能夠自動化格式
 * [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -66,25 +74,21 @@ This extension pack packages some of my regular and favorite extensions.
     * 統一程式碼撰寫的排版格式，適合運用在多人開發上，有些人習慣 tab 縮排，有些則習慣 space 縮排，或是斷行類型( CRLF or LF )的設定等等，改善程式碼排版的一致性並有效提升程式碼可讀性
 * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     * 可以在編輯器中看到 Git 相關資訊，拿來追 code 很方便
-* [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
-    * 讓 Output console 有顏色分別顯示
-* [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter)
-    * Optimize / Auto Imports, Generate Getters / Setters and Constructors
-* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-    * 在 VS Code 編輯區內顯示 TSLint 的檢查資訊，提升程式碼品質
 * [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
     * 使用 Reveal.js 建立簡報
-* [mssql](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
-    * 可直接在 VS Code 中連線 Microsoft SQL Server, Azure SQL Database，並執行 SQL 查詢
 
 ### Theme
 
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
     * A customizable extension for colorizing matching brackets
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-    * Atom's iconic One Dark theme, and one of the most downloaded themes for VS Code
+    * Atom 風格的佈景主題
+* [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+    * 讓 Output console 有顏色分別顯示
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
-    * Icons for Visual Studio Code
+    * 扁平化的檔案 Icons 標誌
+* [VSCode simpler Icons with Angular](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons)
+    * 專門給 Angular 用的 Icons
 
 ## Recommended Extension
 
@@ -108,6 +112,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 幫你檢查 package.json 中專案相依的版本資訊，可以一目了然的知道各套件是否有新版本釋出
 * [Wallaby.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode)
     * （需付費）單元測試的神器，能在編輯器中顯示單元測試的結果與狀態
+    * 選單快速鍵 `Ctrl` + `Shift` + `=`
+    * 啟動快速鍵 `Ctrl` + `Shift` + `R` `R`
 
 ## For more information
 
