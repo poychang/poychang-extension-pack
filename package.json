@@ -9,6 +9,7 @@
     "engines": {
         "vscode": "^1.12.0"
     },
+    "keywords": ["Angular", "Back-End", "Front-End", "TypeScript"],
     "categories": [
         "Extension Packs"
     ],
