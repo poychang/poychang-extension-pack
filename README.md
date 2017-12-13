@@ -74,6 +74,8 @@ This extension pack packages some of my regular and favorite extensions.
     * 統一程式碼撰寫的排版格式，適合運用在多人開發上，有些人習慣 tab 縮排，有些則習慣 space 縮排，或是斷行類型( CRLF or LF )的設定等等，改善程式碼排版的一致性並有效提升程式碼可讀性
 * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     * 可以在編輯器中看到 Git 相關資訊，拿來追 code 很方便
+* [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+    * 可以透過直觀的文字描述，產生對應 UML 模型的工具
 * [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
     * 使用 Reveal.js 建立簡報
 
