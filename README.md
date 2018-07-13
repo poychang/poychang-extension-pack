@@ -102,8 +102,8 @@ This extension pack packages some of my regular and favorite extensions.
 
 ### Others
 
-* [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
-    * 開啟 Markdown 檔案時，自動開啟預覽模式
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+    * 用 VS Code 寫 Markdown 文件必樁的工具
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
     * 提供 Dockerfile 程式碼片段及命令列等工具
 * [ionic 2 Commands with Snippets](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
